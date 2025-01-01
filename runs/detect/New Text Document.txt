@@ -1,0 +1,2 @@
+This is the folder where your recorded files are stored.
+U may delete this txt if you want.
