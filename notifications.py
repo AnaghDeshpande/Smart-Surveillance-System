@@ -1,10 +1,5 @@
 import smtplib as smtplib
 
-# sender_email = "anaghdeshpande257@gmail.com"
-# password = "cstl wrdi mabc nnai"
-# receiver_email = "anagh.cs22@bmsce.ac.in"
-# message = "HI there"
-
 
 def send_notification(message):
     # message = message
